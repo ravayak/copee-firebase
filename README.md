@@ -1,0 +1,1 @@
+Basic node.js app retrieving firebase users credentials from user email/password
